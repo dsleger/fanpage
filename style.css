@@ -15,5 +15,7 @@ img {
 
 iframe {
   display:block;
+  height:auto;
+  width:auto;
   border-style:none;
 }
